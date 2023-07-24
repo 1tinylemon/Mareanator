@@ -1,0 +1,2 @@
+# Mareanator
+A terminal program
